@@ -1,2 +1,0 @@
-# Nithya
-Digital clock 
